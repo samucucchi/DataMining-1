@@ -1,1 +1,1 @@
-# DS-BI
+# Project for "Data Mining: Fundations" exam.
